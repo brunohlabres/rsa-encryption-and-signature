@@ -1,6 +1,3 @@
-// GRR20163049 Bruno Henrique Labres
-// GRR20171588 Eduardo Henrique Trevisan
-
 #include <stdio.h>
 #include <string.h>
 #include <openssl/bn.h>
